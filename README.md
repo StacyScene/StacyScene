@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Stacy, a somewhat new programmer/dev looking to sharpen my skills on public projects, hope I can help!
 ## <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66ed2a39e80161c4cba576f8?variant=dark&roadmaps=backend%2Cjavascript%2Ccpp%2Clinux" alt="roadmap.sh"/></a>
 
 <!--
